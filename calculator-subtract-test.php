@@ -10,3 +10,4 @@ class TestOfCalculator extends UnitTestCase {
 	  $this->assertEqual($myCalc->Subtract(4,2), 2, "4 - 2");
 	}
 	
+}
